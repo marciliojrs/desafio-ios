@@ -1,0 +1,6 @@
+framework module Pods_arena_test {
+  umbrella header "Pods-arena-test-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Argo (4.1.1):
+    - Runes (>= 4.0.0)
+  - Curry (3.0.0)
+  - Kingfisher (3.2.4)
+  - PullToRefreshSwift (3.0.3)
+  - Runes (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Argo
+  - Curry
+  - Kingfisher (~> 3.0)
+  - PullToRefreshSwift
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Argo: 014ac072f97462bc1a9b83d302edb351488a532f
+  Curry: eb3d2c75aec678b3cc7fb2729d2ad6dd121531d1
+  Kingfisher: 8d80f39da403cd9c9ee11984e1655f4d6a566cdb
+  PullToRefreshSwift: 0743b818072bfd7c9464addc2d1b987b131057ca
+  Runes: ff20f163b478ac2c0e18158d6086fd5b1997f983
+
+PODFILE CHECKSUM: 66b666a9f1d0d304bacb70ebac64ebe6b05234be
+
+COCOAPODS: 1.2.0.beta.3
